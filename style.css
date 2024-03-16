@@ -83,6 +83,7 @@ main {
 }
 
 .angabe2 {
+  margin-right: 8rem;
   padding-right: 1.5rem;
 }
 
@@ -97,7 +98,7 @@ main {
   width: 22px;
   height: 22px;
   clip-path: circle(50%);
-  background-color: green;
+  background-color: blue;
   left: 3.2rem;
   top: 3.3rem;
 }
@@ -107,7 +108,7 @@ main {
   width: 22px;
   height: 22px;
   clip-path: circle(50%);
-  background-color: rgb(21, 0, 128);
+  background-color: red;
   left: 5.2rem;
   top: 3.3rem;
 }
@@ -119,7 +120,7 @@ main {
   width: 22px;
   height: 22px;
   clip-path: circle(50%);
-  background-color: rgb(128, 0, 124);
+  background-color: black;
 }
 
 .btn {
